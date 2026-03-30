@@ -81,7 +81,7 @@ This project was completed as part of a graduate-level analytics course at **Bos
 - Kaixin Gao  
 - Kang Ni  
 - Shanmathi Sivakumar  
-- Mike Allieri :contentReference[oaicite:4]{index=4}
+- Mike Allieri
 
 ## Tools Used
 
