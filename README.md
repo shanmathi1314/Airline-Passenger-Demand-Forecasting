@@ -23,7 +23,7 @@ Accurate demand forecasting is critical for:
 
 - Source: U.S. DOT BTS T-100 Domestic Segment dataset
 - Time range: 2022–2025 (partial 2025)
-- Final dataset: ~26,000 rows and 37 features :contentReference[oaicite:0]{index=0}
+- Final dataset: ~26,000 rows and 37 features
 
 ## Methodology
 
@@ -37,7 +37,7 @@ Accurate demand forecasting is critical for:
 Key insights included:
 - Strong seasonality with peak demand in summer months
 - Dominance of major carriers (WN, AA, DL, UA)
-- Consistent yearly demand patterns :contentReference[oaicite:1]{index=1}
+- Consistent yearly demand patterns 
 
 ### Modeling Approach
 Implemented and compared multiple models:
@@ -53,7 +53,7 @@ Implemented and compared multiple models:
 
 - Linear models achieved strong performance (R² ≈ 0.997)
 - Random Forest captured nonlinear relationships effectively
-- Best performance achieved using **Stacking Regressor** combining linear and ensemble models :contentReference[oaicite:2]{index=2}
+- Best performance achieved using **Stacking Regressor** combining linear and ensemble models 
 
 ## Key Findings
 
@@ -65,7 +65,7 @@ Implemented and compared multiple models:
 
 - Improved capacity planning through accurate demand forecasting
 - Enhanced pricing strategies based on seasonal demand trends
-- Reduced operational inefficiencies by minimizing underutilized capacity :contentReference[oaicite:3]{index=3}
+- Reduced operational inefficiencies by minimizing underutilized capacity 
 
 ## Files in This Repository
 
